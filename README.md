@@ -1,4 +1,6 @@
-# electron-quick-start
+# wcs-sound-app
+
+![screenshot.png](screenshot.png)
 
 **Clone and run for a quick way to see Electron in action.**
 

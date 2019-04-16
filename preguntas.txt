@@ -1,0 +1,8 @@
+Que te da electron?
+===================================
+Tu creas tu aplicacion en HTML, CSS y JAVASCRIPT, y electron te da herramientas para empaquetarla u usarla como un app directamente en Windows, OSX y Linux.
+
+El mismo codigo para mi aplicacion se usa en esos 3 sistemas.
+
+Cross-platform development.
+

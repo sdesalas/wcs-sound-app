@@ -13,4 +13,28 @@ body {
   padding: 20px 20px;
   background: #555;
   color: #eee;
+  text-align: center;
+}
+
+.App-recorder {
+
+}
+
+.App-button {
+  position: absolute;
+  top: 47%;
+  width: 100px;
+  left: 47%;
+  height: 100px;
+  background: #999;
+  opacity: 0.5;
+  border: 3px solid #ccc;
+  border-radius: 50%;
+  font-size: 42px;
+  outline:none;
+  color: #000;
+}
+
+.App-button:hover {
+  opacity: 0.9;
 }

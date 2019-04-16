@@ -6,7 +6,8 @@
   "scripts": {
     "dev": "webpack --watch",
     "test": "jest .",
-    "start": "electron ."
+    "start": "electron .",
+    "build-windows": "electron-packager . soundApp --platform=win32 --arch=x64"
   },
   "repository": "https://github.com/electron/electron-quick-start",
   "keywords": [
@@ -26,6 +27,7 @@
     "babel-preset-react": "^6.24.1",
     "css-loader": "^2.1.1",
     "electron": "^4.1.4",
+    "electron-packager": "^13.1.1",
     "webpack": "^4.30.0",
     "webpack-cli": "^3.3.0"
   },

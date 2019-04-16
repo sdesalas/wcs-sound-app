@@ -22,9 +22,9 @@ body {
 
 .App-button {
   position: absolute;
-  top: 47%;
+  top: 45%;
   width: 100px;
-  left: 47%;
+  left: 45%;
   height: 100px;
   background: #999;
   opacity: 0.5;
